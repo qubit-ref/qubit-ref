@@ -1,0 +1,451 @@
+{
+    "1999nakamura": {
+        "author": "Nakamura, Y. and Pashkin, Yu. A. and Tsai, J. S.",
+        "comment": "10.1038/19718",
+        "comments": "ec taken from Fig.1 label. ej taken from paragraph 2, page 2, t1 taken from paragraph 5, page 1. t2_r taken from paragraph 3, page 3.",
+        "doi": "10.1038/19718",
+        "ec": [
+            28300000000.0,
+            700000000.0
+        ],
+        "ej": [
+            12530000000.0,
+            "np.nan"
+        ],
+        "issn": "0028-0836",
+        "journal": "Nature",
+        "month": "apr",
+        "number": "6730",
+        "pages": "786--788",
+        "publisher": "Macmillan Magazines Ltd.",
+        "t1": [
+            8e-09,
+            "np.nan"
+        ],
+        "t2_ramsey": [
+            2e-09,
+            "np.nan"
+        ],
+        "title": "Coherent control of macroscopic quantum states in a single-Cooper-pair box",
+        "type": "cooper pair box",
+        "url": "10.1038/19718",
+        "volume": "398",
+        "year": "1999"
+    },
+    "2002vion": {
+        "URL": "https: //science.sciencemag.org/content/296/5569/886",
+        "abstract": "We have designed and operated a superconducting tunnel junction circuit that behaves as a two-level atom: the {\\textquotedblleft}quantronium.{\\textquotedblright} An arbitrary evolution of its quantum state can be programmed with a series of microwave pulses, and a projective measurement of the state can be performed by a pulsed readout subcircuit. The measured quality factor of quantum coherenceQ ϕ ≅ 25,000 is sufficiently high that a solid-state quantum processor based on this type of circuit can be envisioned.",
+        "author": "Vion, D. and Aassime, A. and Cottet, A. and Joyez, P. and Pothier, H. and Urbina, C. and Esteve, D. and Devoret, M. H.",
+        "comments": "Ej, Ec taken from paragraph 1, page 3. t1 time taken from paragraph 1, page 3. t2_r time taken from paragraph 3, page 3.",
+        "doi": "10.1126/science.1069372",
+        "ec": [
+            14190000000.0,
+            "np.nan"
+        ],
+        "ej": [
+            18020000000.0,
+            "np.nan"
+        ],
+        "eprint": "https: //science.sciencemag.org/content/296/5569/886.full.pdf",
+        "issn": "0036-8075",
+        "journal": "Science",
+        "number": "5569",
+        "pages": "886--889",
+        "publisher": "American Association for the Advancement of Science",
+        "t1": [
+            1.8e-06,
+            "np.nan"
+        ],
+        "t2_ramsey": [
+            5e-07,
+            "np.nan"
+        ],
+        "title": "Manipulating the Quantum State of an Electrical Circuit",
+        "type": "quantronium",
+        "volume": "296",
+        "year": "2002"
+    },
+    "2004wallraff": {
+        "abstract": "The interaction of matter and light is one of the fundamental processes occurring in nature, and its most elementary form is realized when a single atom interacts with a single photon. Reaching this regime has been a major focus of research in atomic physics and quantum optics1 for several decades and has generated the field of cavity quantum electrodynamics2, 3. Here we perform an experiment in which a superconducting two-level system, playing the role of an artificial atom, is coupled to an on-chip cavity consisting of a superconducting transmission line resonator. We show that the strong coupling regime can be attained in a solid-state system, and we experimentally observe the coherent interaction of a superconducting two-level system with a single microwave photon. The concept of circuit quantum electrodynamics opens many new possibilities for studying the strong interaction of light and matter. This system can also be exploited for quantum information processing and quantum communication and may lead to new approaches for single photon generation and detection.",
+        "author": "Wallraff, A. and Schuster, D. I. and Blais, A. and Frunzio, L. and Huang, R.-S. and Majer, J. and Kumar, S. and Girvin, S. M. and Schoelkopf, R. J.",
+        "comments": "Charge and Josephson energy taken from paragraph 1, page 4. t2 taken from paragraph 3, page4.",
+        "doi": "10.1038/nature02851",
+        "ec": [
+            5200000000.0,
+            100000000.0
+        ],
+        "ej": [
+            8000000000.0,
+            100000000.0
+        ],
+        "issn": "0028-0836",
+        "journal": "Nature",
+        "month": "september",
+        "number": "7005",
+        "pages": "162--167",
+        "t2": [
+            1.4e-06,
+            "np.nan"
+        ],
+        "title": "Strong coupling of a single photon to a superconducting qubit using circuit quantum electrodynamics",
+        "type": "cooper pair box",
+        "url": "https://www.nature.com/articles/nature02851",
+        "volume": "431",
+        "year": "2004"
+    },
+    "2008Schreier": {
+        "author": "Schreier, J. A. and Houck, A. A. and Koch, Jens and Schuster, D. I. and Johnson, B. R. and Chow, J. M. and Gambetta, J. M. and Majer, J. and Frunzio, L. and Devoret, M. H. and Girvin, S. M. and Schoelkopf, R. J.",
+        "comments": "t1, t2_ramsey taken from paragraph 1, page 4. ec taken from fig 4 label. ej calculated from ej/ec~50 taken from fig 4 label.",
+        "doi": "10.1103/PhysRevB.77.180502",
+        "ec": [
+            380000000.0,
+            "np.nan"
+        ],
+        "ej": [
+            19000000000.0,
+            "np.nan"
+        ],
+        "issue": "18",
+        "journal": "Phys. Rev. B",
+        "month": "May",
+        "numpages": "4",
+        "pages": "180502",
+        "publisher": "American Physical Society",
+        "t1": [
+            1.87e-06,
+            2e-08
+        ],
+        "t2_ramsey": [
+            2.22e-06,
+            3e-08
+        ],
+        "title": "Suppressing charge noise decoherence in superconducting charge qubits",
+        "type": "transmon",
+        "url": "https: //link.aps.org/doi/10.1103/PhysRevB.77.180502",
+        "volume": "77",
+        "year": "2008"
+    },
+    "2011paik": {
+        "abstract": "The superconducting transmon qubit is a leading platform for quantum computing and quantum science. Building large, useful quantum systems based on transmon qubits will require significant improvements in qubit relaxation and coherence times, which are orders of magnitude shorter than limits imposed by bulk properties of the constituent materials. This indicates that relaxation likely originates from uncontrolled surfaces, interfaces, and contaminants. Previous efforts to improve qubit lifetimes have focused primarily on designs that minimize contributions from surfaces. However, significant improvements in the lifetime of two-dimensional transmon qubits have remained elusive for several years. Here, we fabricate two-dimensional transmon qubits that have both lifetimes and coherence times with dynamical decoupling exceeding 0.3 milliseconds by replacing niobium with tantalum in the device. We have observed increased lifetimes for seventeen devices, indicating that these material improvements are robust, paving the way for higher gate fidelities in multi-qubit processors.",
+        "author": "Paik, Hanhee and Schuster, D. I. and Bishop, Lev S. and Kirchmair, G. and Catelani, G. and Sears, A. P. and Johnson, B. R. and Reagor, M. J. and Frunzio, L. and Glazman, L. I. and Girvin, S. M. and Devoret, M. H. and Schoelkopf, R. J.",
+        "comments": "Coherence times, charging and Josephson energy from Table 1. sample J1 (D). The pi pulse duration is taken from Fig. 2 label.",
+        "doi": "10.1103/PhysRevLett.107.240501",
+        "ec": [
+            301000000.0,
+            "np.nan"
+        ],
+        "ej": [
+            21100000000.0,
+            "np.nan"
+        ],
+        "f_01": [
+            6808000000.0,
+            "np.nan"
+        ],
+        "issue": "24",
+        "journal": "Phys. Rev. Lett.",
+        "month": "december",
+        "numpages": "5",
+        "pages": "240501",
+        "publisher": "American Physical Society",
+        "t1": [
+            6e-05,
+            "np.nan"
+        ],
+        "t2_echo": [
+            2.5e-05,
+            "np.nan"
+        ],
+        "t2_ramsey": [
+            1.8e-05,
+            "np.nan"
+        ],
+        "t_pi_pulse": [
+            2e-08,
+            "np.nan"
+        ],
+        "title": "Observation of High Coherence in Josephson Junction Qubits Measured in a Three-Dimensional Circuit QED Architecture",
+        "type": "3d transmon",
+        "url": "http://link.aps.org/doi/10.1103/PhysRevLett.107.240501",
+        "volume": "107",
+        "year": "2011"
+    },
+    "2012rigetti": {
+        "author": "Rigetti, Chad and Gambetta, Jay M. and Poletto, Stefano and Plourde, B. L. T. and Chow, Jerry M. and Córcoles, A. D. and Smolin, John A. and Merkel, Seth T. and Rozen, J. R. and Keefe, George A. and Rothwell, Mary B. and Ketchen, Mark B. and Steffen, M.",
+        "comments": "coherence time taken from the abstract. ej, ec taken from paragraph 2, page 3.",
+        "doi": "10.1103/PhysRevB.86.100506",
+        "ec": [
+            206000000.0,
+            "np.nan"
+        ],
+        "ej": [
+            10057000000.0,
+            "np.nan"
+        ],
+        "issue": "10",
+        "journal": "Phys. Rev. B",
+        "month": "Sep",
+        "numpages": "5",
+        "pages": "100506",
+        "publisher": "American Physical Society",
+        "t1": [
+            7e-05,
+            "np.nan"
+        ],
+        "t2_ramsey": [
+            9.2e-05,
+            "np.nan"
+        ],
+        "title": "Superconducting qubit in a waveguide cavity with a coherence time approaching 0.1 ms",
+        "type": "3d transmon",
+        "url": "http: //link.aps.org/doi/10.1103/PhysRevB.86.100506",
+        "volume": "86",
+        "year": "2012"
+    },
+    "2012sears": {
+        "author": "Sears, A. P. and Petrenko, A. and Catelani, G. and Sun, L. and Paik, Hanhee and Kirchmair, G. and Frunzio, L. and Glazman, L. I. and Girvin, S. M. and Schoelkopf, R. J.",
+        "comments": "Coherence times taken from paragraph 1, page 7, supplementary. Qubit frequency taken from paragraph 1, page 6, supplementary.",
+        "doi": "10.1103/PhysRevB.86.180504",
+        "f_01": [
+            6384000000.0,
+            "np.nan"
+        ],
+        "issue": "18",
+        "journal": "Phys. Rev. B",
+        "month": "november",
+        "numpages": "5",
+        "pages": "180504",
+        "publisher": "American Physical Society",
+        "t1": [
+            4.9e-05,
+            "np.nan"
+        ],
+        "t2_echo": [
+            8.7e-05,
+            "np.nan"
+        ],
+        "t2_ramsey": [
+            1.6e-05,
+            "np.nan"
+        ],
+        "title": "Photon shot noise dephasing in the strong-dispersive limit of circuit QED",
+        "type": "3d transmon",
+        "url": "https: //link.aps.org/doi/10.1103/PhysRevB.86.180504",
+        "volume": "86",
+        "year": "2012"
+    },
+    "2013barends": {
+        "author": "Barends, R. and Kelly, J. and Megrant, A. and Sank, D. and Jeffrey, E. and Chen, Y. and Yin, Y. and Chiaro, B. and Mutus, J. and Neill, C. and O'Malley, P. and Roushan, P. and Wenner, J. and White, T. C. and Cleland, A. N. and Martinis, John M.",
+        "comments": "Coherence times taken from paragraph 5, page 2. ec and ej taken from paragraph 6, page 2. f01 taken from paragraph 6, page 2.",
+        "doi": "10.1103/PhysRevLett.111.080502",
+        "ec": [
+            230000000.0,
+            "np.nan"
+        ],
+        "ej": [
+            21850000000.0,
+            "np.nan"
+        ],
+        "f01": [
+            6000000000.0,
+            "np.nan"
+        ],
+        "file": ":articles/2013-R.Barends.pdf:PDF",
+        "issue": "8",
+        "journal": "Phys. Rev. Lett.",
+        "month": "Aug",
+        "numpages": "5",
+        "pages": "080502",
+        "publisher": "American Physical Society",
+        "t1": [
+            4.4e-05,
+            "np.nan"
+        ],
+        "t2_echo": [
+            2e-05,
+            "np.nan"
+        ],
+        "t2_ramsey": [
+            1.5e-05,
+            "np.nan"
+        ],
+        "title": "Coherent Josephson Qubit Suitable for Scalable Quantum Integrated Circuits",
+        "type": "xmon",
+        "url": "http: //link.aps.org/doi/10.1103/PhysRevLett.111.080502}",
+        "volume": "111",
+        "year": "2013"
+    },
+    "2014pop": {
+        "author": "Pop, Ioan M. and Geerlings, Kurtis and Catelani, Gianluigi and Schoelkopf, Robert J. and Glazman, Leonid I. and Devoret, Michel H.",
+        "comments": "t1 taken from fig. 3 b. el calculated from the inductance of l=300nH in paragraph 2, page 2 as el=(phi_0/2/pi)^2/l. t2_ramsey and t2_echo from Extended Data Table 1. ej, ec taken from paragraph 15, page 5.",
+        "doi": "10.1038/nature13017",
+        "ec": [
+            2600000000.0,
+            "np.nan"
+        ],
+        "ej": [
+            12000000000.0,
+            "np.nan"
+        ],
+        "el": [
+            544870000.0,
+            "np.nan"
+        ],
+        "issn": "0028-0836",
+        "journal": "Nature",
+        "month": "apr",
+        "number": "7496",
+        "pages": "369--372",
+        "publisher": "Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.",
+        "t1": [
+            0.0081,
+            "np.nan"
+        ],
+        "t2_echo": [
+            8.5e-06,
+            "np.nan"
+        ],
+        "t2_ramsey": [
+            1.4e-05,
+            "np.nan"
+        ],
+        "title": "Coherent suppression of electromagnetic dissipation due to superconducting quasiparticles",
+        "type": "fluxonium",
+        "url": "10.1038/nature13017",
+        "volume": "508",
+        "year": "2014"
+    },
+    "2016yan": {
+        "abstract": "The scalable application of quantum information science will stand on reproducible and controllable high-coherence quantum bits (qubits). Here, we revisit the design and fabrication of the superconducting flux qubit, achieving a planar device with broad-frequency tunability, strong anharmonicity, high reproducibility and relaxation times in excess of 40 μs at its flux-insensitive point. Qubit relaxation times T1 across 22 qubits are consistently matched with a single model involving resonator loss, ohmic charge noise and 1/f-flux noise, a noise source previously considered primarily in the context of dephasing. We furthermore demonstrate that qubit dephasing at the flux-insensitive point is dominated by residual thermal-photons in the readout resonator. The resulting photon shot noise is mitigated using a dynamical decoupling protocol, resulting in T2≈85 μs, approximately the 2T1 limit. In addition to realizing an improved flux qubit, our results uniquely identify photon shot noise as limiting T2 in contemporary qubits based on transverse qubit-resonator interaction.",
+        "author": "Yan, Fei and Gustavsson, Simon and Kamal, Archana and Birenbaum, Jeffrey and Sears, Adam P. and Hover, David and Gudmundsen, Ted J. and Rosenberg, Danna and Samach, Gabriel and Weber, S. and Yoder, Jonilyn L. and Orlando, Terry P. and Clarke, John and Kerman, Andrew J. and Oliver, William D.",
+        "comment": "t1, ej, ec, f01 taken from Supplementary Table 1. t2_e taken from paragraph 4,  page 2. t2_cpmg taken from paragraph1, page 8.",
+        "ec": [
+            350000000.0,
+            "np.nan"
+        ],
+        "ej": [
+            36200000000.0,
+            "np.nan"
+        ],
+        "f01": [
+            4700000000.0,
+            "np.nan"
+        ],
+        "issn": "2041-1723",
+        "journal": "Nature Communications",
+        "month": "nov",
+        "number": "1",
+        "pages": "12964",
+        "t1": [
+            5.5e-05,
+            "np.nan"
+        ],
+        "t2_cpmg": [
+            8.5e-05,
+            "np.nan"
+        ],
+        "t2_e": [
+            4e-05,
+            "np.nan"
+        ],
+        "title": "The flux qubit revisited to enhance coherence and reproducibility",
+        "type": "c-shunt flux qubit",
+        "url": "https: //doi.org/10.1038/ncomms12964}",
+        "volume": "7",
+        "year": "2016"
+    },
+    "2021gyenis": {
+        "author": "Gyenis, András and Mundada, Pranav S. and Di Paolo, Agustin and Hazard, Thomas M. and You, Xinyuan and Schuster, David I. and Koch, Jens and Blais, Alexandre and Houck, Andrew A.",
+        "comments": "t1, t2_ramsey, t2_e taken from paragraph 3, page 6.",
+        "doi": "10.1103/PRXQuantum.2.010339",
+        "issue": "1",
+        "journal": "PRX Quantum",
+        "month": "Mar",
+        "numpages": "18",
+        "pages": "010339",
+        "publisher": "American Physical Society",
+        "t1": [
+            0.00156,
+            0.0001
+        ],
+        "t2_e": [
+            2.58e-05,
+            1.4e-06
+        ],
+        "t2_ramsey": [
+            8.5e-06,
+            6e-07
+        ],
+        "title": "Experimental Realization of a Protected Superconducting Circuit Derived from the $0$--$\\ensuremath{\\pi}$ Qubit",
+        "type": "0-pi",
+        "url": "https: //link.aps.org/doi/10.1103/PRXQuantum.2.010339",
+        "volume": "2",
+        "year": "2021"
+    },
+    "2021place": {
+        "abstract": "The superconducting transmon qubit is a leading platform for quantum computing and quantum science. Building large, useful quantum systems based on transmon qubits will require significant improvements in qubit relaxation and coherence times, which are orders of magnitude shorter than limits imposed by bulk properties of the constituent materials. This indicates that relaxation likely originates from uncontrolled surfaces, interfaces, and contaminants. Previous efforts to improve qubit lifetimes have focused primarily on designs that minimize contributions from surfaces. However, significant improvements in the lifetime of two-dimensional transmon qubits have remained elusive for several years. Here, we fabricate two-dimensional transmon qubits that have both lifetimes and coherence times with dynamical decoupling exceeding 0.3 milliseconds by replacing niobium with tantalum in the device. We have observed increased lifetimes for seventeen devices, indicating that these material improvements are robust, paving the way for higher gate fidelities in multi-qubit processors.",
+        "author": "Place, Alexander P. M. and Rodgers, Lila V. H. and Mundada, Pranav and Smitham, Basil M. and Fitzpatrick, Mattias and Leng, Zhaoqi and Premkumar, Anjali and Bryon, Jacob and Vrajitoarea, Andrei and Sussman, Sara and Cheng, Guangming and Madhavan, Trisha and Babla, Harshvardhan K. and Le, Xuan Hoang and Gang, Youqi and J�ck, Berthold and Gyenis, Andr�s and Yao, Nan and Cava, Robert J. and de Leon, Nathalie P. and Houck, Andrew A.",
+        "comments": "Coherence times from the supplementary Table 1.",
+        "doi": "10.1038/s41467-021-22030-5",
+        "issn": "2041-1723",
+        "journal": "Nature Communications",
+        "month": "march",
+        "number": "1",
+        "pages": "1779",
+        "t1": [
+            0.000303,
+            3.2e-05
+        ],
+        "t2_cpmg": [
+            0.000377,
+            0.000111
+        ],
+        "t2_echo": [
+            0.000201,
+            2.8e-05
+        ],
+        "t2_ramsey": [
+            0.000105,
+            3e-06
+        ],
+        "title": "New material platform for superconducting transmon qubits with coherence times exceeding 0.3 milliseconds",
+        "type": "2d transmon",
+        "url": "https://www.nature.com/articles/s41467-021-22030-5",
+        "volume": "12",
+        "year": "2021"
+    },
+    "2021somoroff": {
+        "abstract": "The superconducting transmon qubit is a leading platform for quantum computing and quantum science. Building large, useful quantum systems based on transmon qubits will require significant improvements in qubit relaxation and coherence times, which are orders of magnitude shorter than limits imposed by bulk properties of the constituent materials. This indicates that relaxation likely originates from uncontrolled surfaces, interfaces, and contaminants. Previous efforts to improve qubit lifetimes have focused primarily on designs that minimize contributions from surfaces. However, significant improvements in the lifetime of two-dimensional transmon qubits have remained elusive for several years. Here, we fabricate two-dimensional transmon qubits that have both lifetimes and coherence times with dynamical decoupling exceeding 0.3 milliseconds by replacing niobium with tantalum in the device. We have observed increased lifetimes for seventeen devices, indicating that these material improvements are robust, paving the way for higher gate fidelities in multi-qubit processors.",
+        "archivePrefix": "arXiv",
+        "author": "Aaron Somoroff and Quentin Ficheux and Raymond A. Mencia and Haonan Xiong and Roman V. Kuzmin and Vladimir E. Manucharyan",
+        "comments": "f01 taken from paragraph 3, page 1. t2_ramsey taken from fig. 2 (b) label. t1 taken from fig. 2 (c) label. ec, el, ej taken from paragraph 1, page 2, supp.",
+        "ec": [
+            1080000000.0,
+            1000000.0
+        ],
+        "ej": [
+            5570000000.0,
+            1000000.0
+        ],
+        "el": [
+            640000000.0,
+            1000000.0
+        ],
+        "eprint": "2103.08578",
+        "f01": [
+            163000000.0,
+            "np.nan"
+        ],
+        "primaryClass": "quant-p",
+        "t1": [
+            0.0012,
+            3e-05
+        ],
+        "t2_ramsey": [
+            0.00116,
+            5e-05
+        ],
+        "type": "fluxonium",
+        "year": "2021"
+    }
+}
