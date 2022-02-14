@@ -19,6 +19,9 @@ Example of entries visualization are available on the jupyter notebook `visualiz
 ### Qubit coherence
 
 ![qubit coherence](doc/coherence.png "lifetime")
+### Ej/Ec ratio
+
+![qubit coherence](doc/ejec.png "lifetime")
 
 ## How entries are made?
 
@@ -106,9 +109,9 @@ The citation will be updated each time someone add its contribution to the proje
 ## References
 
 * [1] Devoret, M. H. & Schoelkopf, R. J.
-Superconducting Circuits for Quantum Information: An Outlook 
-Science, American Association for the Advancement of Science, **2013**, 339, 1169-1174 
+Superconducting Circuits for Quantum Information: An Outlook
+Science, American Association for the Advancement of Science, **2013**, 339, 1169-1174
 
 * [2] Schreier, J. A. et al.
-Suppressing charge noise decoherence in superconducting charge qubits 
+Suppressing charge noise decoherence in superconducting charge qubits
 Phys. Rev. B, American Physical Society, **2008**, 77, 180502

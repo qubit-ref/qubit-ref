@@ -447,5 +447,35 @@
         ],
         "type": "fluxonium",
         "year": "2021"
+    },
+    "2022rieger": {
+        "abstract": "Mesoscopic Josephson junctions (JJs), consisting of overlapping superconducting electrodes separated by a nanometer thin oxide layer, provide a precious source of nonlinearity for superconducting quantum circuits and are at the heart of state-of-the-art qubits, such as the transmon and fluxonium. Here, we show that in a fluxonium qubit the role of the JJ can also be played by a lithographically defined, self-structured granular aluminum (grAl) nano-junction: a superconductor-insulator-superconductor (SIS) JJ obtained in a single layer, zero-angle evaporation. The measured spectrum of the resulting qubit, which we nickname gralmonium, is indistinguishable from the one of a standard fluxonium qubit. Remarkably, the lack of a mesoscopic parallel plate capacitor gives rise to an intrinsically large grAl nano-junction charging energy in the range of 10−100GHz, comparable to its Josephson energy EJ. We measure average energy relaxation times of T1=10μs and Hahn echo coherence times of Techo2=9μs. The exponential sensitivity of the gralmonium to the EJ of the grAl nano-junction provides a highly susceptible detector. Indeed, we observe spontaneous jumps of the value of EJ on timescales from milliseconds to days, which offer a powerful diagnostics tool for microscopic defects in superconducting materials.",
+        "archivePrefix": "arXiv",
+        "author": "D. Rieger, S. Günzler, M. Spiecker, P. Paluch, P. Winkel, L. Hahn, J. K. Hohmann, A. Bacher, W. Wernsdorfer, I. M. Pop",
+        "comments": "ec, ej taken from fig. 2 label. el calculated from lk taken from fig.2 label. t1 amd t2_echo taken from fig. 3 label.",
+        "ec": [
+            15000000000.0,
+            "np.nan"
+        ],
+        "ej": [
+            23400000000.0,
+            "np.nan"
+        ],
+        "el": [
+            573549168.0,
+            "np.nan"
+        ],
+        "eprint": "2202.01776",
+        "primaryClass": "quant-p",
+        "t1": [
+            1.14e-05,
+            "np.nan"
+        ],
+        "t2_echo": [
+            1.05e-05,
+            "np.nan"
+        ],
+        "type": "Gralmonium",
+        "year": "2022"
     }
 }
